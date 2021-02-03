@@ -1,0 +1,14 @@
+Create Fault Tolerant MongoDB Cluster
+Now we will work on Create Fault Tolerant MongoDB Cluster. We will accomplish it by completing each task in the project:
+
+Set up a MongoDB Replica environment and start the replica servers.
+Set up the Replica Configuration for each MongoDB server.
+Populate the MongoDB database from a CSV file and query each server in the replica set.
+Use a Replica set connection string to access the MongoDB database using Python's PyMongo.
+Simulate server fault by stopping a MongoDB server and Observe one of the Secondary servers replacing the primary server using the Mongo Shell.
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
+
+Ready to get started? Click on the button below to launch the project on Rhyme.
+This course uses a third-party tool, Create Fault Tolerant MongoDB Cluster, to enhance your learning experience. The tool will reference basic information like your name, email, and Coursera ID.
+
+
